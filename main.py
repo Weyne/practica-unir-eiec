@@ -1,12 +1,17 @@
 """
 License: Apache
 Organization: UNIR
+Course: Entornos de Integración y Entrega Continua
+Members:
+Fernando Contreras
+Gustavo Gomez
+Wilson Narro
 """
 
 import os
 import sys
 
-DEFAULT_FILENAME = "words.txt"
+DEFAULT_FILENAME = "palabras.txt"
 DEFAULT_DUPLICATES = False
 
 
